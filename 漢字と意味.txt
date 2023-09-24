@@ -1,0 +1,111 @@
+南 south
+戦う fight
+集める collect,gather(transitive)
+靴下 socks
+本棚 book_shelf
+洗濯機 washing_machine
+戻す return
+歩く walk
+言う say
+運ぶ bring
+使う use
+飛ぶ fly
+噛む bite
+貸す lend
+嗅ぐ smell
+出す go_out(transitive)
+引く pull
+立つ stand
+待つ wait
+売る sell
+着る wear
+着く reach/arrive
+泳ぐ swim
+打つ strike
+憎む hate
+習う learn
+作る make
+足りる be_sufficient
+降りる dismount/climb down
+乗る get_on/ride
+居る be_there
+送る give　               おくる
+聞く listen/ask
+黙る keep_quiet
+泣く cry
+笑う smile
+消える disappear
+触る touch
+壊す break(intransitive)
+諦める give_up
+誘う invite(traditional)　いざなう
+誘う invite(modern)　
+近い close(adj)
+降る fall(rainfalls/snowfalls)
+見つける discover
+太る fat(verb)　ふとる
+似る similar(verb)
+優れる excellent(verb)　すぐれる
+取る take
+受け取る receive
+外す remove
+遠い far
+隠す hide(intransitive)　かくす
+隠れる hide(transitive)
+決まる decide(intransitive)
+決める decide(transitive)
+集まる gather(people gather)(intransitive)
+濡れる get_wet
+出る go_out(intransitive)
+壊れる break(transitive)  ======= list 1
+貰う get(貰)
+上る climb/go_up
+醜い ugly(adj) みにくい
+吉原 吉原
+咲く bloom(verb)
+形 shape　かたち
+デッキ deck(katakana)
+溶かす melt(transitive)
+溶ける melt(intransitive)
+影 shadow
+覗ける be_peep のぞける
+覗く peep
+鳩 dove はと
+禿 bald はげ
+叫ぶ call_out さけぶ
+盛る flourish/pile_up もる
+比べる compare くらべる
+別れる separate/farewell わかれる
+動かす move
+横 beside(geometrically) よこ
+向いて towards(て形)　むいて
+周り around/surrounding まわり
+噂 rumours うわさ
+治る heal なおる
+深い deep ふかい
+患う suffer わずらう
+揺れる shake(transitive)
+臆病 coward おくびょう
+痒い itchy かゆい
+掠る graze かする
+捨てる give_up_something(physically) すてる
+賑やか lively(a_place) にぎやか
+広い spacious ひろい
+暮らす live(生活する) くらす
+洗う wash あらう
+皿 dish さら
+必ず for_sure かならず
+苦手 bad(at_something) にがて
+短い short みじかい
+細い thin ほそい
+叶う come_true
+大抵 mostly たいてい
+並ぶ line_up(intransitive) ならぶ 
+並べる line_up(transitive)
+(not updated)*
+叱る scold
+流れる flow
+臨む want
+従う follow(command) ド屑
+固い hard
+伝える send ======= list 2
