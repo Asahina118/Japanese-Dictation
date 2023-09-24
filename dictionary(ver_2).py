@@ -1,10 +1,13 @@
 import random
+import os
+here = os.path.dirname(os.path.abspath(__file__))
+
 select =''
 
 while select != 'Q':
     hist = []
     li = ''
-    with open('漢字と意味.txt',encoding='utf8') as fp:
+    with open(os.path.join(here, '漢字と意味.txt'), encoding='utf8') as fp:
         for i, l in enumerate(fp):
             pass
     num = i+1
@@ -17,12 +20,12 @@ while select != 'Q':
     while select == "D":
         if li == '':
             li = input('Display correct list throughout the dictation?(Y/N)')
-        file_choice = input('File version(1/2):')
-        file_choice = ('漢字と意味' + file_choice + '.txt')
+        #file_choice = input('File version(1/2):')
+        file_choice = ('漢字と意味.txt')
         rep = True
         while (rep):
             rep = False
-            file = open(file_choice,'r',encoding='utf8')
+            file = open(os.path.join(here, file_choice),'r',encoding='utf8')
             line = next(file)
             for num, aline in enumerate(file, 2):
                 if random.randrange(num):
@@ -55,13 +58,13 @@ while select != 'Q':
         tran = input('translation:')
         if tran == 'quit':
             break
-        with open('漢字と意味.txt','a',encoding='utf8') as file:
+        with open(os.path.join(here, '漢字と意味.txt'),'a',encoding='utf8') as file:
             file.write('\n'+word+' '+tran)
         print('successful')
 
     if select == 'L':
         print('=================================')
-        with open('漢字と意味.txt','r',encoding='utf8') as file:
+        with open(os.path.join(here, '漢字と意味.txt'),'r',encoding='utf8') as file:
             print(file.read())
         print('=================================')
         

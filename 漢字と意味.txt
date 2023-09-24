@@ -57,7 +57,7 @@
 集まる gather(people gather)(intransitive)
 濡れる get_wet
 出る go_out(intransitive)
-壊れる break(transitive)  ======= list 1
+壊れる break(transitive)
 貰う get(貰)
 上る climb/go_up
 醜い ugly(adj) みにくい
@@ -108,4 +108,4 @@
 臨む want
 従う follow(command) ド屑
 固い hard
-伝える send ======= list 2
+伝える send
