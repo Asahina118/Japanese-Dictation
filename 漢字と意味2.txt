@@ -1,0 +1,44 @@
+貰う get(貰)
+上る climb/go_up
+醜い ugly(adj) みにくい
+吉原 吉原
+咲く bloom(verb)
+形 shape　かたち
+デッキ deck(katakana)
+溶かす melt(transitive)
+溶ける melt(intransitive)
+影 shadow
+覗ける be_peep のぞける
+覗く peep
+鳩 dove はと
+禿 bald はげ
+叫ぶ call_out さけぶ
+盛る flourish/pile_up もる
+比べる compare くらべる
+別れる separate/farewell わかれる
+動かす move
+横 beside(geometrically) よこ
+向いて towards(て形)　むいて
+周り around/surrounding まわり
+噂 rumours うわさ
+治る heal なおる
+深い deep ふかい
+患う suffer わずらう
+揺れる shake(transitive)
+臆病 coward おくびょう
+痒い itchy かゆい
+掠る graze かする
+捨てる give_up_something(physically) すてる
+賑やか lively(a_place) にぎやか
+広い spacious ひろい
+暮らす live(生活する) くらす
+洗う wash あらう
+皿 dish さら
+必ず for_sure かならず
+苦手 bad(at_something) にがて
+短い short みじかい
+細い thin ほそい
+叶う come_true
+大抵 mostly たいてい
+並ぶ line_up(intransitive) ならぶ 
+並べる line_up(transitive)
